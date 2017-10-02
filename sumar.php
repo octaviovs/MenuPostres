@@ -17,7 +17,7 @@ $valor=1;
   <title></title>
 </head>
 <body>
-
+<h1>hola</h1>
 <form action="sumar.php" method="POST">
 
   <?php 
